@@ -9,7 +9,7 @@ This is a simulation model of intermittently controlled point-and-click behavior
 - point_and_click_model: point-and-click model
 
 ## Cite as
-'''
+```
 @inproceedings{do2021simulation,
   title={A Simulation Model of Intermittently Controlled Point-and-Click Behaviour},
   author={Do, Seungwon and Chang, Minsuk and Lee, Byungjoo},
@@ -17,4 +17,4 @@ This is a simulation model of intermittently controlled point-and-click behavior
   pages={1--17},
   year={2021}
 }
-'''
+```
